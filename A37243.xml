@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Poem upon His Highness the Prince of Orange's expedition into England by J.D.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37243</idno>
+            <idno type="STC">Wing D41</idno>
+            <idno type="STC">ESTC R14576</idno>
+            <idno type="EEBO-CITATION">12255582</idno>
+            <idno type="OCLC">ocm 12255582</idno>
+            <idno type="VID">57402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57402)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 888:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Poem upon His Highness the Prince of Orange's expedition into England by J.D.</title>
+                  <author>J. D.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.C. :</publisher>
+                  <publisher>And published by R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:57402:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:57402:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>A POEM UPON His Highneſs the Prince of <hi>Orange</hi>'s Expedition into <hi>England.</hi>
+            </head>
+            <byline>By <hi>J. D.</hi>
+            </byline>
+            <epigraph>
+               <q>
+                  <l>Nunc gratae ſiquando Mihi, nunc ludite Muſae.</l>
+               </q>
+            </epigraph>
+            <lg>
+               <l>I Never thought to ſee the well got Fame,</l>
+               <l>Could my Plaindealing-Muſe provoke to Praiſe;</l>
+               <l>Or that a Man's Deſerts ſhould place His Name</l>
+               <l>Above the reach of Flattery to raiſe:</l>
+            </lg>
+            <lg n="2">
+               <head>[2]</head>
+               <l>And yet His Character moſt beauteous ſhows,</l>
+               <l>Writ by the moſt ſevere Philoſophers,</l>
+               <l>And naked Truth by his Aſſiſtance grows</l>
+               <l>Now firſt, a Subject high enough for Verſe.</l>
+            </lg>
+            <lg n="3">
+               <head>[3]</head>
+               <l>What the beſt Fawning Poets of the Age,</l>
+               <l>Falſly aſcrib'd to others, is his Due:</l>
+               <l>Too ſoon they did their Flattery engage,</l>
+               <l>Had it been kept till now, it had been true.</l>
+            </lg>
+            <lg n="4">
+               <head>[4]</head>
+               <l>You that would Heroes write, and yet write Senſe,</l>
+               <l>Judiciouſly obſerve this Great Good Man:</l>
+               <l>He'll teach you more and juſter Excellence,</l>
+               <l>Then paſt Examples, or Invention Can.</l>
+            </lg>
+            <lg n="5">
+               <head>[5]</head>
+               <l>(Though Painters from Licentious Fancy take</l>
+               <l>Monſters and Bulky Gyants at command;</l>
+               <l>Yet when a perfect Beauty they would make,</l>
+               <l>They copy the beſt Works of Nature's Hand)</l>
+            </lg>
+            <lg n="6">
+               <pb n="2" facs="tcp:57402:2"/>
+               <!-- PDF PAGE 16 -->
+               <head>[6]</head>
+               <l>He'll ſhow you mighty Power little us'd,</l>
+               <l>Yet Vaſt Affairs by his Direction move;</l>
+               <l>
+                  <hi>Holland</hi> with name of Liberty abus'd,</l>
+               <l>While Rul'd by Him with moſt Tyrannick Love.</l>
+            </lg>
+            <lg n="7">
+               <head>[7]</head>
+               <l>Riches well ſpent in Great and Virtuous Deeds;</l>
+               <l>A Life from Pride and Luxury more free</l>
+               <l>Than Rigid <hi>Anchorets</hi> Affected Weeds,</l>
+               <l>Or all the Sons of <hi>Rome</hi> ſworn Poverty.</l>
+            </lg>
+            <lg n="8">
+               <head>[8]</head>
+               <l>Religious Wiſdom's pare diffuſive Beams,</l>
+               <l>That like the Sun ſhine moſt for others Good:</l>
+               <l>Worth joyn'd with ſuch Humility, it ſeems</l>
+               <l>The only thing by Him not underſtood.</l>
+            </lg>
+            <lg n="9">
+               <head>[9]</head>
+               <l>Juſtice as ſure and equal as the Grave,</l>
+               <l>His Character, this ſide alone is blind:</l>
+               <l>Men He ſo well diſcerns, one would believe</l>
+               <l>He could their Thoughts by Intuition find.</l>
+            </lg>
+            <lg n="10">
+               <head>[10]</head>
+               <l>Mercy ſo great, ſo much without a Cauſe,</l>
+               <l>It almoſt looks like want of Memory;</l>
+               <l>And did He not ſubmit it to the Laws,</l>
+               <l>By conſequence would turn to Cruelty.</l>
+            </lg>
+            <lg n="11">
+               <head>[11]</head>
+               <l>
+                  <hi>Graecian</hi> and <hi>Roman</hi> Grandeur in Him meet,</l>
+               <l>He ſcorns Barbarian <hi>Aſiatick</hi> State:</l>
+               <l>Chuſes to be ſo, rather than look Great,</l>
+               <l>Virtue within, than Princes at His Gate.</l>
+            </lg>
+            <lg n="12">
+               <head>[12]</head>
+               <l>Cool Courage never heard before 'tis ſeen,</l>
+               <l>As his deep Councils firſt in Fact appear;</l>
+               <l>So wond'rous Swift has our Deliv'rance been,</l>
+               <l>We ſcarce had time to Hope, nor <hi>Rome</hi> to Fear.</l>
+            </lg>
+            <lg n="13">
+               <head>[13]</head>
+               <l>With Curſes as She came our Land to load,</l>
+               <l>She ſaw the Riches and the Promis'd Pay;</l>
+               <l>But not ſo ſoon as the dull Aſs
+<note n="†" place="margin">The ſame that lent the Lyon his Tail, to help him out of the pit. See the Fable.</note> She rode</l>
+               <l>The Mighty Guardian Angel in the way.</l>
+            </lg>
+            <lg n="14">
+               <head>[14]</head>
+               <l>The ſullen Beaſt ſtood ſtill, nor valu'd
+<note n="*" place="margin">High Comiſſion Court. turning out of Commiſſion, Li<g ref="char:EOLhyphen"/>berty of Conſci<g ref="char:EOLhyphen"/>ence, Indictments, <hi>&amp;c.</hi>
+                  </note> Blows,</l>
+               <l>But Bravely he reſolv'd to do no more:</l>
+               <l>Both ſaw and ſpoke the Danger at his Noſe,</l>
+               <l>The Brute ne're ſhow'd his Parts ſo much before.</l>
+            </lg>
+            <lg n="15">
+               <pb n="3" facs="tcp:57402:2"/>
+               <!-- PDF PAGE 16 -->
+               <head>[15]</head>
+               <l>What the lewd Councels of State-ſpoiling Knaves,</l>
+               <l>The Induſtry of ſelf-deſtroying Fools,</l>
+               <l>United Kings, Prieſts-Heads, and Hands of Slaves,</l>
+               <l>With all inferiour neceſſary Tools.</l>
+            </lg>
+            <lg n="16">
+               <head>[16]</head>
+               <l>What Breach of Laws and Faith, a well-tim'd Plot,</l>
+               <l>(That baſe Pretence for uſeful Cruelty,)</l>
+               <l>Rebellion ſent for, the wiſh'd
+<note n="*" place="margin">The D. of <hi>M.</hi>
+                  </note> Victim got,</l>
+               <l>A Gown that taught, or Sword forc'd Slavery.</l>
+            </lg>
+            <lg n="17">
+               <head>[17]</head>
+               <l>What all theſe (help'd by ſelf-betraying Fears,</l>
+               <l>And grown reſiſtleſs by our ſtrong Deſpair,)</l>
+               <l>Had ſcarcely form'd in many tedious Years,</l>
+               <l>How ſoon He broke and ſcatter'd into Air?</l>
+            </lg>
+            <lg n="18">
+               <head>[18]</head>
+               <l>When noxious Inſects cover'd all our Land,</l>
+               <l>And the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Palace leaſt of all was free,</l>
+               <l>A <gap reason="illegible" extent="7+ letters">
+                     <desc>〈7… letters〉</desc>
+                  </gap>g Wind aroſe at his Command,</l>
+               <l>That wept them in, or elſe beyond the Sea.</l>
+            </lg>
+            <lg n="19">
+               <head>[19]</head>
+               <l>Religion liſts her long dejected Head,</l>
+               <l>Kill'd Laws revive, and Love depoſeth Fear:</l>
+               <l>So when all Nature's in appearance dead,</l>
+               <l>The Sun recalls the Beauties of the Year.</l>
+            </lg>
+            <lg n="20">
+               <head>[20]</head>
+               <l>Minding no Ends, but God and Nature's Cauſe,</l>
+               <l>Calm, and Reſolv'd, He utmoſt hazard runs;</l>
+               <l>But Triumph hates and Popular Applauſe,</l>
+               <l>And more the Honour than the danger ſhuns.</l>
+            </lg>
+            <lg n="21">
+               <head>[21]</head>
+               <l>Though Fortune Crown his Actions with Succeſs,</l>
+               <l>To Us, not him are all her Favours ſhown;</l>
+               <l>In vain does ſhe attempt the Man to bleſs;</l>
+               <l>Who makes all other Wrongs ſo much his own.</l>
+            </lg>
+            <lg n="22">
+               <head>[22]</head>
+               <l>His Altars all unjuſtly-wretched chooſe,</l>
+               <l>To his vaſt Goodneſs as the Ocean Flow,</l>
+               <l>Where Floods of Tears and Miſeries they looſe,</l>
+               <l>Remember not the paſt, nor Future know.</l>
+            </lg>
+            <lg n="23">
+               <head>[23]</head>
+               <l>He owns, and all his publick Acts evince,</l>
+               <l>Empires true ends by him are underſtood,</l>
+               <l>Not the Wild Luſt and Pleaſure of the Prince;</l>
+               <l>But pure Religion and the Peoples good.</l>
+            </lg>
+            <lg n="24">
+               <pb n="4" facs="tcp:57402:3"/>
+               <!-- PDF PAGE 17 -->
+               <head>[24]</head>
+               <l>
+                  <hi>Spain</hi> his Old Enemy does now confeſs,</l>
+               <l>To him ſhe ill-deſerved ſafety ows;</l>
+               <l>Sings unfeign'd Praiſes for his Arms Succeſs,</l>
+               <l>And Zealous for the Reformation grows.</l>
+            </lg>
+            <lg n="25">
+               <head>[25]</head>
+               <l>Now <hi>France</hi> that Scourge of God has taught the Age,</l>
+               <l>Our Hero it's true Intereſt to know,</l>
+               <l>He checks the haughty Monſieur's ſwelling Rage;</l>
+               <l>Juſt hither and no farther ſhalt thou go.</l>
+            </lg>
+            <lg n="26">
+               <head>[26]</head>
+               <l>In vain did wiſeſt <hi>Belgian</hi> States-men try,</l>
+               <l>Without Him to ſupport their tott'ring States;</l>
+               <l>That Deed was Praelude to a Work more high,</l>
+               <l>Now the ſame Artiſt's hand all <hi>Europe</hi> waits.</l>
+            </lg>
+            <lg n="27">
+               <head>[27]</head>
+               <l>The two great Rival <hi>Navies</hi> by him join'd,</l>
+               <l>Their Canvas Wings the Globe ſhall ſpread around;</l>
+               <l>Heap Wealth from ev'ry Tributary Wind,</l>
+               <l>Awe the whole Earth, make wideſt Seas their SOUND.</l>
+            </lg>
+            <lg n="28">
+               <head>[28]</head>
+               <l>Our <hi>Britiſh</hi> Lyons, now they Him obey,</l>
+               <l>Once more ſhall ſtalk through <hi>France</hi> with Furious ſtate:</l>
+               <l>While led with Hopes to ſhare the noble Prey,</l>
+               <l>Hungry Imperial Eagles on 'em wait.</l>
+            </lg>
+            <lg n="29">
+               <head>[29]</head>
+               <l>Who don't confeſs him KING, although he hath</l>
+               <l>Such Works, ſuch Proofs of deſtin'd Empire ſeen;</l>
+               <l>To ſtrength of Education owes His Faith,</l>
+               <l>Had He ſeen <hi>Chriſt,</hi> h'ad not a Chriſtian been.</l>
+            </lg>
+            <lg n="30">
+               <head>[30]</head>
+               <l>What ſhall we do, or how ſhall we contrive,</l>
+               <l>To Him but Common Gratitude to ſhew?</l>
+               <l>When, though we both our ſelves and Kingdoms give,</l>
+               <l>That and much more's our Intereſt to do.</l>
+            </lg>
+            <lg n="31">
+               <head>[31]</head>
+               <l>His Vertue is its own and beſt Reward,</l>
+               <l>So helps the weak Attempts of grateful Minds;</l>
+               <l>As when Man's willing, but the Task's too hard,</l>
+               <l>He ſupernatural Aſſiſtance finds.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. C.</hi> and Publiſhed by <hi>R. Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old Baily,</hi> 168<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
